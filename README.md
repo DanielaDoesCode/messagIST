@@ -1,4 +1,5 @@
-# A34 MessagIST Project Read Me
+# MessagIST Project README
+This project was made in the context of the masters class Network and Computer Security 
 
 ## Team
 
@@ -8,7 +9,6 @@
 | ist1104195  | Sofia Du      | <https://github.com/SofiDu>     | <mailto:sofia.du@tecnico.ulisboa.pt>     |
 | ist1103793  | Tomás Gouveia  | <https://github.com/tomas7770> | <mailto:tomas.gouveia@tecnico.ulisboa.pt> |
 
-![Alice](img/DanielaC.png) ![Bob](img/sofia_d.png) ![Charlie](img/TomasG.png)
 
 
 ## Contents
